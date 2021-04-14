@@ -33,7 +33,7 @@ The above table shows us resampled DataFrame
 
   The results shows that what kind of fares recomend based on the which cities the passenger catching ride in. 
   
-    1. assign the driver on which cities busy and work more
+    1. assign the driver on which cities busy and more work in.
     2. charge more fare in urban cities
     3. make some fare madification at rural area for more atract more drivers'
 
